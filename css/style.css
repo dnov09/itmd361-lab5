@@ -5,32 +5,8 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bold;
     color: antiquewhite;
-    background-image: url("../img/space.jpg");
+    background-image: url("/img/space.jpg");
 }
-
-table {
-    margin: 0 auto;
-    line-height: 1.5em;
-    font-size: 1.3em;
-}
-
-th,
-td {
-    padding: 16px;
-    text-align: center;
-}
-
-table,
-th,
-td {
-    border: rgb(255, 197, 255);
-    border-style: solid;
-    border-width: 4px;
-    border-radius: 60px;
-    border-collapse: collapse;
-}
-
-
 
 .heading-row {
     background-color: rgb(255, 197, 255);
@@ -41,3 +17,24 @@ td {
     font-family: 'Dancing Script', cursive;
     color: rgb(255, 197, 255);
 }
+
+table {
+    line-height: 1.5em;
+    font-size: 1.3em;
+}
+
+td {
+    padding: 16px;
+}
+
+table,
+td {
+    border: rgb(255, 197, 255);
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 60px;
+    border-collapse: collapse;
+}
+
+
+
