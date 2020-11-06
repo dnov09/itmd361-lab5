@@ -9,6 +9,8 @@ body {
   font-weight: bold;
   color: antiquewhite;
   background-image: url("/img/space.jpg");
+  text-align: center;
+  position: relative;
 }
 
 img {
@@ -35,6 +37,7 @@ img:hover {
 
 table {
   line-height: 22px;
+  margin: auto;
 
 }
 
